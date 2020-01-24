@@ -1,0 +1,25 @@
+__________________________________________________________________________________________________________
+Changelogs
+__________________________________________________________________________________________________________
+v2/Q
+- Upstreamed to 4.9.208
+- Merged the latest caf
+- Based On Silvercore Source
+- Based On idle power configration (Thanks Matrix)
+- 60hz for gamers , 66hz for tweaks lovers
+- Underclock gpu to 157hz (better standby battery)
+- Overclock gpu to 820hz (better gaming experience)*KernelManager
+- Enable Dynamic Stune Boost
+- Enable Simple LMK
+- FastCharging (3300mAh)*script KernelManager
+v2/P
+- Upstreamed to 4.9.199
+- Based on Franco Source
+- Based On idle power configration (Thanks Matrix)
+- 60hz for gamers , 66hz for tweaks lovers
+- Underclock gpu to 157hz (better standby battery)
+- Overclock gpu to 820hz (better gaming experience)*KernelManager
+- Enable Dynamic Stune Boost
+- Enable Simple LMK
+- FastCharging (3300mAh)*script KernelManager
+- Underclock CPU to 300mhz (better standby battery)
